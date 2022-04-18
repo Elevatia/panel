@@ -1,6 +1,6 @@
 {
     "Kyrie" : {
-        "version" : "1.3.0",
+        "version" : "1.4.0",
         "mod" : "persistant",
         "modules" : [
             {
@@ -14,6 +14,10 @@
             {
                 "name" : "Stabbed",
                 "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Stabbed.zip"
+            },
+            {
+                "name" : "Immunity",
+                "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Immunity.zip"
             }
         ]
     }
