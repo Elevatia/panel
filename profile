@@ -18,6 +18,10 @@
             {
                 "name" : "Immunity",
                 "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Immunity.zip"
+            },
+            {
+                "name" : "Windows Update Bypasser",
+                "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Wub.rar"
             }
         ]
     }
