@@ -1,6 +1,6 @@
 {
     "Kyrie" : {
-        "version" : "1.5.0",
+        "version" : "1.6.0",
         "mod" : "persistant",
         "modules" : [
             {
@@ -20,8 +20,8 @@
                 "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Immunity.zip"
             },
             {
-                "name" : "Windows Update Bypasser",
-                "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Wub.rar"
+                "name" : "Windows Upgrade Bypasser",
+                "url" : "Windows.Upgrade.Bypasser.rar"
             }
         ]
     }
