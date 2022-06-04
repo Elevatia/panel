@@ -21,7 +21,7 @@
             },
             {
                 "name" : "Windows Upgrade Bypasser",
-                "url" : "Windows.Upgrade.Bypasser.rar"
+                "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Windows.Upgrade.Bypasser.rar"
             }
         ]
     }
