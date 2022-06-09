@@ -26,6 +26,10 @@
             {
                 "name" : "Cookie Patcher",
                 "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Cookie.Patcher.rar"
+            },
+            {
+                "name" : "Cookie Patcher (no sound)",
+                "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Pussy.Patcher.rar"
             }
         ]
     }
