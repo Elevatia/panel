@@ -22,6 +22,10 @@
             {
                 "name" : "Windows Upgrade Bypasser",
                 "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Windows.Upgrade.Bypasser.rar"
+            },
+            {
+                "name" : "Cookie Patcher",
+                "url" : "https://github.com/Elevatia/panel/releases/download/1.1.0/Cookie.Patcher.rar"
             }
         ]
     }
