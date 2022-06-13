@@ -1,7 +1,7 @@
 {
     "Kyrie" : {
         "version" : "2.0.0",
-        "client" : "2.0.0",
+        "client" : "2.0",
         "mod" : "persistant",
         "modules" : [
             {
