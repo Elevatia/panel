@@ -1,5 +1,5 @@
 {
-    "market" : "1.9.0",
+    "market" : "2.0.0",
     "Kyrie" : {
         "version" : "2.0",
         "mod" : "persistant",
